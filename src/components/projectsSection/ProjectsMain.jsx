@@ -8,14 +8,14 @@ const projects = [
     name: "Dental-Clinics",
     year: "React + Vite",
     align: "right",
-    image: "public/images/dental.png",
+    image: "/images/dental.png",
     link: "https://github.com/MarwaIsmail2/Dental-Clinics-.git",
   },
   {
     name: "frish-fruits",
     year: "React + Vite",
     align: "left",
-    image: "public/images/fruti.png",
+    image: "/images/fruti.png",
     link: "#",
   },
   
@@ -23,14 +23,14 @@ const projects = [
     name: "Tourzania",
     year: "",
     align: "right",
-    image: "public/images/pro.png",
+    image: "/images/pro.png",
     link: "https://github.com/MarwaIsmail2/Portfolio-website.git",
   },
   {
     name: "to-do app",
     year: "",
     align: "left",
-    image: "public/images/todo.png",
+    image: "/images/todo.png",
     link: "https://github.com/MarwaIsmail2/react-todo-list.git",
   },
 ];
