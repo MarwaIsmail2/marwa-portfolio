@@ -20,7 +20,7 @@ const projects = [
   },
   
   {
-    name: "Tourzania",
+    name: "FA portfolio",
     year: "",
     align: "right",
     image: "/images/pro.png",
